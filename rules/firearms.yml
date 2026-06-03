@@ -142,3 +142,9 @@ sheet:
           icon: "img/mod_fire_into_melee.png"
           description: "Target engaged in melee with ally"
           negative: "+1 penalty 🎲, friendly fire on fumble"
+
+        - title: "Prone"
+          icon: "img/firearms_prone.png"
+          description: "Character is in prone position"
+          positive: "+1 bonus 🎲 when shooting"
+          negative: "+1 penalty 🎲 when attacked (except at point blank range)"
