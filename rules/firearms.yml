@@ -143,7 +143,7 @@ sheet:
           description: "Target engaged in melee with ally"
           negative: "+1 penalty 🎲, friendly fire on fumble"
 
-        - title: "Prone"
+        - title: "Prone"  # keepers rulebook 7th, p 128 "Prone" (not under "Firearms")
           icon: "img/firearms_prone.png"
           description: "Character is in prone position"
           positive: "+1 bonus 🎲 when shooting"
